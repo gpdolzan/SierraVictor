@@ -18,7 +18,7 @@ export default function Home() {
 
       <div>
         <h1 className="text-2xl text-center font-bold pb-4">
-          Para entender como isso funciona, assita o vídeo abaixo
+          Para entender como isso funciona, assista o vídeo abaixo
         </h1>
       </div>
 
