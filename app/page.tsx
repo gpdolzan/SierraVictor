@@ -31,7 +31,8 @@ export default function Home() {
 
       <div>
         <h1 className="text-4xl text-center font-bold pt-4 pb-4">
-          Mude agora a <span className="text-red-600">sua vida</span>
+          <h1>Mude agora a sua vida</h1>
+          <h1>clicando no botão abaixo</h1>
         </h1>
       </div>
 
