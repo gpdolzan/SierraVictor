@@ -11,13 +11,14 @@ export default function Home() {
 
       <div>
         <h1 className="text-4xl text-center font-bold pt-4 pb-4">
-          O que é Reprogramação Genética?
+          <h1>Emagreça e tenha uma vida saudável</h1>
+          <h1>usando técnicas de reprogramação genética</h1>
         </h1>
       </div>
 
       <div>
-        <h1 className="text-4xl text-center font-bold pt-4 pb-4">
-          Como isso funciona? Assita o vídeo abaixo:
+        <h1 className="text-4xl text-center font-bold pb-4">
+          Para entender como isso funciona, assita o vídeo abaixo
         </h1>
       </div>
 
@@ -34,7 +35,7 @@ export default function Home() {
         </h1>
       </div>
 
-      <div className="text-2xl text-center font-bold pt-4 pb-4">
+      <div className="text-2xl text-center font-bold pb-4">
         <Link target="_blank" href="https://www.youtube.com/watch?v=cxmMD5OvYRQ">
           <button className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">
             <h1 className="text-2xl text-center">Quero reprogramar</h1>
