@@ -10,14 +10,14 @@ export default function Home() {
       <DolzanHeader></DolzanHeader>
 
       <div>
-        <h1 className="text-4xl text-center font-bold pt-4 pb-4">
+        <h1 className="text-[#ff9933] text-2xl text-center font-bold pt-4 pb-4">
           <h1>Emagreça e tenha uma vida saudável</h1>
           <h1>usando técnicas de reprogramação genética</h1>
         </h1>
       </div>
 
       <div>
-        <h1 className="text-4xl text-center font-bold pb-4">
+        <h1 className="text-2xl text-center font-bold pb-4">
           Para entender como isso funciona, assita o vídeo abaixo
         </h1>
       </div>
@@ -30,7 +30,7 @@ export default function Home() {
       </div>
 
       <div>
-        <h1 className="text-4xl text-center font-bold pt-4 pb-4">
+        <h1 className="text-2xl text-center font-bold pt-4 pb-4">
           <h1>Mude agora a sua vida</h1>
           <h1>clicando no botão abaixo</h1>
         </h1>
