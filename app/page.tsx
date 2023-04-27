@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       <div>
-        <h1 className="text-2xl text-center font-bold pt-4 pb-4">
+        <h1 className="text-2xl text-center font-bold pt-4 pb-4 pr-4 pl-4">
           <h1>Mude agora a sua vida clicando no botão abaixo</h1>
         </h1>
       </div>
